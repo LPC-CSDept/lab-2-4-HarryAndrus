@@ -4,7 +4,7 @@ def main():
     sub2 = str[:6]  
     print(sub1)
     print(sub2)
-    print(str)  
+    print(sub1+sub2)  
 
 
 
